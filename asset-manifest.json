@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-highcharts-example/static/css/main.073c9b0a.css",
+    "main.js": "/react-highcharts-example/static/js/main.40319c6c.js",
+    "static/js/787.eb4a9270.chunk.js": "/react-highcharts-example/static/js/787.eb4a9270.chunk.js",
+    "index.html": "/react-highcharts-example/index.html",
+    "main.073c9b0a.css.map": "/react-highcharts-example/static/css/main.073c9b0a.css.map",
+    "main.40319c6c.js.map": "/react-highcharts-example/static/js/main.40319c6c.js.map",
+    "787.eb4a9270.chunk.js.map": "/react-highcharts-example/static/js/787.eb4a9270.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.40319c6c.js"
+  ]
+}
